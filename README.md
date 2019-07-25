@@ -1,2 +1,3 @@
 # opentrons
-Opentrons Robot fun
+Opentrons Robot Fun .. 
+From the Vuw SynBio Team
